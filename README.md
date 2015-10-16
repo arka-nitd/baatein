@@ -4,7 +4,7 @@ It is a basic social networking website made using php for backend and html and 
 
 Some steps to make it functional.
 
-1.) create a database named baatein
+1.) create a database named baatein and adjust the password.
 2.) create four tables in it named friend_requests, posts, pvt_messages, users
 
 Table 1 : users
