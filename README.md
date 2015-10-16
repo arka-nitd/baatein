@@ -9,7 +9,7 @@ Some steps to make it functional.
 
 Table 1 : users
 
-This table has 11 rows which are of following type
+This table has 11 columns which are of following type
 
 name                 type  
 id                  int(11)
