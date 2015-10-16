@@ -64,7 +64,7 @@ if ($noofrows1 != 0) {
 		<input type='submit' name='setopen$id' value='Mark as read'>
 		</form>
 		<div id='toggletext$id' style='display:none;'>
-		<br>$msg_body<br>
+		<br><div id='biobox' >$msg_body</div><br>
 		</div>
 		<hr><br>
 		";
